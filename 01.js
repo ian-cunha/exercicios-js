@@ -1,7 +1,7 @@
 // Boas práticas
 // Usar let não var
 
-let num1 = 4;
+let num1 = 2;
 let num2 = 4;
 
 console.log('Soma: 2 + 4 = ' + (num1 + num2));
