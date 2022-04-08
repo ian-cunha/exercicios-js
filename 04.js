@@ -1,4 +1,4 @@
-// solve me first - função
+// solve me first - function
 
 function solveMeFirst(a, b) {
   return a + b;
